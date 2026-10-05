@@ -1,0 +1,6 @@
+vosk-model-small-es-0.42/
+trabajos/
+error.txt
+__pycache__/
+*.pyc
+.venv/
